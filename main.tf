@@ -1,2 +1,2 @@
-resource "null_resource" "atlantis_demo" {
+resource "null_resource" "atlantis_demo_test" {
 }
