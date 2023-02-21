@@ -1,3 +1,3 @@
 
-resource "null_resource" "atlantis_demo_dev" {
+resource "null_resource" "atlantis_demo" {
 }
